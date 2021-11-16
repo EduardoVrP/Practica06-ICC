@@ -62,6 +62,11 @@ public class Parametros{
     }
 
     //Metodo main para usar el metodo anterior
+    /**
+     * Metodo main para ejecutar lo solicitado
+     *
+     * @param args Los argumentos
+     **/
     public static void main(String[] args){
 	System.out.println("Este programa es solo para ejemplificar");
 	
